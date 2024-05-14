@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=meghanam15&icon=8&color=9)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I am currently learning c++ and python.
 
@@ -13,5 +15,5 @@ I am currently learning c++ and python.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=meghanam15&icon=8&color=9)](https://visitcount.itsvg.in)
+
 
