@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=meghanam15&icon=8&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I am currently learning c++ and python.
+I am currently learning python,data analysis and NoSQL databases.
 
 
 ## 🌐 Socials:
