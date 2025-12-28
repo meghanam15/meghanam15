@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=meghanam15&icon=8&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me
-Hi! I'm Meghana M, an aspiring Data Analyst and Software Developer.  
+Hi! I'm Meghana M. 
 I am currently learning Python, data analysis, and web development.  
 I enjoy building projects that combine programming, analytics, and creativity to solve real-world problems.
 
