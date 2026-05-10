@@ -7,7 +7,7 @@ I enjoy building things that work — Python backends, data pipelines, and ML-po
 
 🔭 Currently seeking Junior Python Developer / Analyst roles.
 
-🛠️ Built a Keystroke Sound Dynamics system that identifies users from typing sounds with 99% accuracy.
+🛠️ Built a Keystroke Sound Dynamics system that identifies users from their typing sounds in a controlled environment with 99% accuracy.
 
 🚀 Built a Course Recommender analyzing 89,380 job postings and 98,104 courses using Flask + ML.
 
