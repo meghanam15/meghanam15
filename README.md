@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=meghanam15&icon=8&color=9)](https://visitcount.itsvg.in)
 
 # 💫 About Me
-MCA Graduate (9.24 CGPA) from JSS Science and Technology University.
+MCA Graduate from JSS Science and Technology University.
 
 I enjoy building things that work — Python backends, data pipelines, and ML-powered applications.
 
