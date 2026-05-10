@@ -5,7 +5,7 @@ MCA Graduate (9.24 CGPA) from JSS Science and Technology University.
 
 I enjoy building things that work — Python backends, data pipelines, and ML-powered applications.
 
-🔭 Currently seeking Junior Python Developer / Backend Developer roles.
+🔭 Currently seeking Junior Python Developer / Analyst roles.
 
 🛠️ Built a Keystroke Sound Dynamics system that identifies users from typing sounds with 99% accuracy.
 
