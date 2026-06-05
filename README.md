@@ -28,7 +28,7 @@ for user identification across 100+ students.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=meghanam15&theme=nightowl&hide_border=false)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=meghanam15&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
