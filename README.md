@@ -2,10 +2,10 @@
 
 Python Backend Developer | FastAPI | REST APIs | SQLAlchemy
 
-🎓 MCA Graduate from JSS Science and Technology University  
+🎓 MCA Graduate from JSS Science and Technology University
 📍 Mysuru, India | Open to Bangalore | Open to Remote
 
-I build backend applications using Python, FastAPI, SQLAlchemy, and relational databases.  
+I build backend applications using Python, FastAPI, SQLAlchemy, and relational databases.
 Interested in API development, authentication systems, and scalable backend architecture.
 
 ---
@@ -14,11 +14,6 @@ Interested in API development, authentication systems, and scalable backend arch
 
 ### 🗂 FastAPI Task Manager
 Production-ready REST API with multi-user support, JWT auth, and automated testing.
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=plastic&logo=python&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white)
 
 - JWT & OAuth2 Authentication
 - User-scoped data isolation
@@ -33,11 +28,6 @@ Production-ready REST API with multi-user support, JWT auth, and automated testi
 ### 📚 Course Recommender System
 ML-powered backend processing 180,000+ records to recommend courses based on job postings.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-
 - Hybrid ML engine (content-based + collaborative filtering)
 - 180,000+ LinkedIn job postings + Udemy course datasets
 - REST API endpoints consumed by frontend interface
@@ -48,10 +38,6 @@ ML-powered backend processing 180,000+ records to recommend courses based on job
 
 ### 🎹 Keystroke Sound Dynamics — User Identification
 Behavioural biometrics research project using keystroke audio analysis.
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
 - Audio data collected from 100+ students
 - ML classification models for user identification
@@ -80,8 +66,3 @@ Behavioural biometrics research project using keystroke audio analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meghana-m-752747267)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:meghanam5913@gmail.com)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=meghanam15&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanam15&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
