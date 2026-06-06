@@ -5,8 +5,7 @@ Python Backend Developer | FastAPI | REST APIs | SQLAlchemy
 🎓 MCA Graduate from JSS Science and Technology University
 📍 Mysuru, India | Open to Bangalore | Open to Remote
 
-I build backend applications using Python, FastAPI, SQLAlchemy, and relational databases.
-Interested in API development, authentication systems, and scalable backend architecture.
+I build backend applications using Python, FastAPI, SQLAlchemy, and relational databases. Passionate about API development, authentication systems, and scalable backend architecture.
 
 ---
 
