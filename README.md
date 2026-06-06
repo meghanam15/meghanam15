@@ -35,15 +35,6 @@ ML-powered backend processing 180,000+ records to recommend courses based on job
 
 ---
 
-### 🎹 Keystroke Sound Dynamics — User Identification
-Behavioural biometrics research project using keystroke audio analysis.
-
-- Audio data collected from 100+ students
-- ML classification models for user identification
-- Accuracy benchmarking across multiple algorithms
-
----
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
