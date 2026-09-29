@@ -3,7 +3,6 @@
 Python Developer 
 
 🎓 MCA Graduate from JSS Science and Technology University
-📍 Mysuru, India | Open to Bangalore | Open to Remote
 
 I enjoy building applications using Python, and relational databases. 
 
