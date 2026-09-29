@@ -1,10 +1,6 @@
 # Hi, I'm Meghana 👋
 
-Python Developer 
-
-🎓 MCA Graduate from JSS Science and Technology University
-
-I enjoy building applications using Python, and relational databases. 
+Python Developer who enjoys building applications using Python, and relational databases. 
 
 ---
 
